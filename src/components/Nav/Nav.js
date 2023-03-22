@@ -31,6 +31,7 @@ const Nav = () => {
                         ))
                     }
                     <Btn>Get Started</Btn>
+                    <Btn>Read More</Btn>
                 </ul>
 
             </div>
